@@ -1,0 +1,56 @@
+#home-container{
+
+    border: 0.5px solid #717276;
+    position: absolute;
+    width : 30%;
+    height : 55%;
+    left: 50%;
+    top: 50%;   
+    transform: translate(-50%, -50%);
+    background-color: #f7f7f7;
+    border-radius: 8px;
+
+    .heading{
+        text-align: center;
+    }
+
+    .img-div{
+        text-align: center;
+        img{
+            height : 150px;
+        }
+        
+    }
+
+    #buttons{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        
+        a{
+            text-decoration: none;
+            color: black;
+        }
+
+        .btn{
+            width : 80%;
+            border: 0.5px solid #6f6262;
+            margin : 10px;
+            padding: 10px;
+            text-align: center;
+            font-size: 20px;
+            border-radius: 8px;
+            
+        }
+
+        .signUp-btn{
+            background-color: #ffd500;
+        }
+
+        .logIn-btn{
+            background-color: #2dc8f5;
+        }
+    }
+
+}

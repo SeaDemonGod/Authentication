@@ -1,0 +1,47 @@
+<link rel="stylesheet" href="/css/form.css">
+
+<div id="sign-up-container" class="container">
+
+    <div class="heading"><h2>Sign Up</h2></div>
+
+    <div id="sign-up-form" class="form">
+        <form action="/users/create" method="post">
+            <div>
+                <label for="name">Name</label>
+                <input type="text" name="name" required>
+            </div>
+            
+            <div>
+                <label for="email">Email</label>
+            <input type="email" name="email" required>
+            </div>
+            
+            <div>
+                <label for="password">Password</label>
+            <input type="password" name="password" required>
+            </div>
+            
+            <div>
+            <label for="confirm_password">Confirm Password</label>
+            <input type="password" name="confirm_password" required>
+            </div>
+            
+            <input type="submit" value="Register" class="btn">
+    
+        </form>
+
+        
+    
+    </div>
+
+    <div class="google-link">
+            <a href="/users/auth/google">Sign Up with Google!</a>   
+    </div>
+
+    <a href="/users/sign-in">Have an account already? Click here to Sign In</a>
+
+</div>
+
+
+
+
