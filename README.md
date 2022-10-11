@@ -10,7 +10,7 @@
 
 ### 🏠 [Homepage](https://authenticastion.herokuapp.com/)
 
-### 📽️ [Video](https://www.youtube.com/watch?v=wNWwccXWwzE)
+### 📽️ [Video](https://youtu.be/XJheldaXJ1s)
 
 ## Install
 
