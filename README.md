@@ -8,7 +8,7 @@
 
 > Authentication system which can be used as a starter code for applications
 
-### 🏠 [Homepage](https://authenticator-nodejs.herokuapp.com)
+### 🏠 [Homepage](https://authenticastion.herokuapp.com/)
 
 ### 📽️ [Video](https://www.youtube.com/watch?v=wNWwccXWwzE)
 
